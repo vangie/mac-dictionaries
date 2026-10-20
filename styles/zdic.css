@@ -1,0 +1,18 @@
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+body { font-family: -apple-system, "PingFang SC", system-ui, sans-serif; color: CanvasText; }
+d|entry { display:block; font-size: 100%; line-height: 1.6; color: CanvasText; }
+d|entry * { color: inherit; background: transparent; font-family: inherit; }
+h1.hw, span.hw { font-size: 150%; font-weight: 600; margin: 0 0 .3em; display:inline-block; }
+h1.hw { display:block; }
+.sec, sup, sub, .sec * { color: -apple-system-secondary-label !important; }
+span.lbl { display:inline-block; border: solid 1px -apple-system-secondary-label; border-radius: 2px;
+  color: -apple-system-secondary-label !important; font-size: 72%; font-weight: 500; line-height: 1.2;
+  padding: 0 2px; margin: 0 .35em 0 0; vertical-align: 10%; text-indent: 0; font-family: system-ui; }
+span.sep { display:block; height:0; margin: .4em 0; }
+a, a:link, a:visited { color: inherit; text-decoration: none; }
+a:hover { text-decoration: underline; }
+img { max-width: 100%; }
+table { border-collapse: collapse; border: none; width: auto; margin: .4em 0; }
+td { border: 0.5px solid -apple-system-tertiary-label; padding: 3px 6px; vertical-align: top; }
+@media (prefers-color-scheme: dark) { img { filter: invert(100%); } }
+

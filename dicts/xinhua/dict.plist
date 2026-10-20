@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleDevelopmentRegion</key><string>zh_CN</string>
+<key>CFBundleIdentifier</key><string>com.vangie.cndict.xinhua</string>
+<key>CFBundleName</key><string>新华字典</string>
+<key>CFBundleDisplayName</key><string>新华字典</string>
+<key>CFBundleShortVersionString</key><string>1.0</string>
+<key>DCSDictionaryCopyright</key><string>Personal use. Source: lxs602/Chinese-Mandarin-Dictionaries</string>
+<key>DCSDictionaryManufacturerName</key><string>vangie</string>
+<key>DCSDictionaryUseSystemAppearance</key><true/>
+</dict></plist>
