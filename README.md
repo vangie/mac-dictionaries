@@ -46,4 +46,4 @@ Output: `build/out/<id>/objects/<名称>.dictionary`.
 
 ## English (release assets only)
 
-LDOCE5, Longman5, Longman5_Extras and Macmillan2: prebuilt bundles, attached to the release as-is.
+LDOCE5, Longman5_Extras and Macmillan2: prebuilt bundles, attached to the release as-is.
